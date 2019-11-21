@@ -10,3 +10,4 @@ Big Data Project for ST0263 - Special Topics in Telematics
 
 ## Documentacion
 ![Diseño 1](./img/ReadMe_1.png)
+![Diseño 2](./img/Readme_2.jpeg)
