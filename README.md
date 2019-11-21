@@ -9,4 +9,4 @@ Big Data Project for ST0263 - Special Topics in Telematics
 - Esteban Sierra Múnera - esierra5@eafit.edu.co (032)
 
 ## Documentacion
-
+![Diseño 1](./img/ReadMe_1.png)
